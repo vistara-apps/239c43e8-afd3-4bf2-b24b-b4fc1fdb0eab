@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "Crypto Pulse",
+    "subtitle": "Built with Zara",
+    "description": "Crypto Pulse is a Base Mini App built with Zara.",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://239c43e8afd34bf2b24bb4fc1fdb0eab-b6oi-q9b7k95ft-vistara.vercel.app",
+    "splashImageUrl": "https://239c43e8afd34bf2b24bb4fc1fdb0eab-b6oi-q9b7k95ft-vistara.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "heroImageUrl": "https://239c43e8afd34bf2b24bb4fc1fdb0eab-b6oi-q9b7k95ft-vistara.vercel.app/image.png",
+    "tagline": "Crypto Pulse",
+    "screenshotUrls": [
+      "https://239c43e8afd34bf2b24bb4fc1fdb0eab-b6oi-q9b7k95ft-vistara.vercel.app/screenshot.png",
+      "https://239c43e8afd34bf2b24bb4fc1fdb0eab-b6oi-q9b7k95ft-vistara.vercel.app/screenshot.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "webhookUrl": "https://239c43e8afd34bf2b24bb4fc1fdb0eab-b6oi-q9b7k95ft-vistara.vercel.app/api/webhook"
+  }
+}
